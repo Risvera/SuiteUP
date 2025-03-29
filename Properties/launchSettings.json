@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SuiteUP (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SuiteUP (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
